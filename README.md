@@ -6,3 +6,10 @@ Created a multiple choice javascript quiz that has a set timer and a high score 
 Depository link: https://kffl3496.github.io/Multiple-choice-quiz-project/
 
 Github URL: https://github.com/kffl3496/Multiple-choice-quiz-project
+
+
+![](master/assets/images/Untitled.png)
+![](master/assets/images/Untitled1.png)
+![](master/assets/images/Untitled2.png)
+![](master/assets/images/Untitled3.png)
+![](master/assets/images/Untitled4.png)
