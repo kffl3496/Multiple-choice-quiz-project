@@ -1,0 +1,52 @@
+.container {
+  border: 10px;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+#questionBox {
+  text-align: center;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#answerBox {
+  text-align: center;
+}
+
+.topDiv {
+  border: 4px;
+  margin: 5px;
+  padding: 5px;
+}
+
+#highScoreCounter {
+  float: left;
+  position: absolute;
+}
+
+#timeCounter {
+  float: right;
+  position: relative;
+}
+
+@media only screen and (max-width: 360px) {
+  
+  .topDiv {
+      width: 100%;
+  }
+
+  .container {
+      width: 100%;
+  }
+
+  #questionBox {
+      width: 100%
+  }
+
+  #answerBox {
+      width: 100%
+  }
+}
